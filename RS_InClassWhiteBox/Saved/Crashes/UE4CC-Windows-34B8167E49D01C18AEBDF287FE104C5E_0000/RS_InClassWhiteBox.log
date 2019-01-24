@@ -1,0 +1,429 @@
+﻿Log file open, 01/23/19 18:11:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RS_InClassWhiteBox
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201759
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.234s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.01.24-01.11.31:049][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-01.11.31:049][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.24-01.11.31:060][  0]LogHAL: Display: Platform has ~ 8 GB [8449904640 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.24-01.11.31:060][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.01.24-01.11.31:060][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.24-01.11.31:061][  0]LogInit: Computer: MUMBO
+[2019.01.24-01.11.31:061][  0]LogInit: User: resta
+[2019.01.24-01.11.31:061][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.24-01.11.31:061][  0]LogInit: High frequency timer resolution =2.437502 MHz
+[2019.01.24-01.11.31:061][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.01.24-01.11.31:061][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.24-01.11.31:061][  0]LogMemory: Process Physical Memory: 99.88 MB used, 99.88 MB peak
+[2019.01.24-01.11.31:061][  0]LogMemory: Process Virtual Memory: 84.20 MB used, 84.20 MB peak
+[2019.01.24-01.11.31:061][  0]LogMemory: Physical Memory: 4472.73 MB used,  3585.73 MB free, 8058.46 MB total
+[2019.01.24-01.11.31:061][  0]LogMemory: Virtual Memory: 4625.40 MB used,  3585.73 MB free, 134217728.00 MB total
+[2019.01.24-01.11.31:084][  0]LogInit: Using OS detected language (en-US).
+[2019.01.24-01.11.31:084][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.24-01.11.31:085][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.24-01.11.31:501][  0]LogStreaming: Display: Took  0.417s to InitEngineTextLocalization.
+[2019.01.24-01.11.31:501][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.24-01.11.31:534][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.24-01.11.31:534][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.24-01.11.31:796][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.24-01.11.31:796][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.24-01.11.31:863][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.01.24-01.11.31:863][  0]LogD3D11RHI:       4019/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.24-01.11.31:874][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.24-01.11.31:874][  0]LogD3D11RHI:       128/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.24-01.11.31:877][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.24-01.11.31:877][  0]LogD3D11RHI:       0/0/4029 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.24-01.11.31:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.24-01.11.31:907][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.24-01.11.31:907][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.01.24-01.11.31:907][  0]LogWindows: EnumDisplayDevices:
+[2019.01.24-01.11.31:907][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.24-01.11.31:908][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.24-01.11.31:908][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.24-01.11.31:908][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.01.24-01.11.31:909][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.01.24-01.11.31:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.01.24-01.11.31:909][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2019.01.24-01.11.31:909][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2019.01.24-01.11.31:909][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.01.24-01.11.31:949][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.24-01.11.31:966][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.24-01.11.31:967][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Intermediate/Shaders/WorkingDirectory/1284/).
+[2019.01.24-01.11.31:967][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/resta/AppData/Local/Temp/UnrealShaderWorkingDir/4B37D69C4B27489BE8599E94FD4E4B9C/'.
+[2019.01.24-01.11.32:315][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.24-01.11.32:330][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.24-01.11.32:346][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.24-01.11.32:361][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.24-01.11.32:376][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.24-01.11.32:404][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.24-01.11.32:427][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.24-01.11.32:457][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.24-01.11.32:479][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:574][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.24-01.11.32:577][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.24-01.11.32:651][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-01.11.32:651][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.24-01.11.32:677][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-01.11.32:677][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.24-01.11.32:691][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.24-01.11.32:707][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.24-01.11.32:722][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.24-01.11.32:738][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.24-01.11.32:748][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.24-01.11.32:748][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.24-01.11.33:002][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.24-01.11.33:002][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.24-01.11.33:002][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.24-01.11.33:913][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.24-01.11.33:981][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/resta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.24-01.11.33:981][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/resta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.01.24-01.11.33:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.24-01.11.33:982][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.24-01.11.33:982][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.24-01.11.33:982][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.24-01.11.33:996][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.24-01.11.34:009][  0]LogDerivedDataCache: Using Local data cache path C:/Users/resta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.24-01.11.34:009][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.24-01.11.34:009][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.24-01.11.34:028][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.24-01.11.34:030][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.24-01.11.34:030][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.24-01.11.34:112][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.01.24-01.11.34:471][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.24-01.11.34:617][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.24-01.11.34:621][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.24-01.11.34:621][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.24-01.11.34:621][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.24-01.11.34:621][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.24-01.11.34:641][  0]LogNetVersion: RS_InClassWhiteBox 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3079657181)
+[2019.01.24-01.11.35:230][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.126973 seconds
+[2019.01.24-01.11.35:236][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.01.24-01.11.35:236][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.01.24-01.11.35:236][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.24-01.11.36:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.24-01.11.36:188][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.24-01.11.36:348][  0]SourceControl: Source control is disabled
+[2019.01.24-01.11.36:348][  0]SourceControl: Source control is disabled
+[2019.01.24-01.11.36:350][  0]SourceControl: Source control is disabled
+[2019.01.24-01.11.36:351][  0]SourceControl: Source control is disabled
+[2019.01.24-01.11.36:539][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.24-01.11.36:599][  0]LogOcInput: OculusInput pre-init called
+[2019.01.24-01.11.36:666][  0]LogEngine: Initializing Engine...
+[2019.01.24-01.11.36:667][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.24-01.11.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-01.11.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-01.11.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-01.11.36:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-01.11.36:916][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.24-01.11.36:933][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.24-01.11.37:008][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-01.11.37:098][  0]LogInit: FAudioDevice initialized.
+[2019.01.24-01.11.37:098][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.24-01.11.37:301][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/resta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.01.24-01.11.37:307][  0]LogInit: Texture streaming: Enabled
+[2019.01.24-01.11.37:329][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.24-01.11.37:329][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4105A5DB-489C-937E-4310-82B2C3ADFD2D}
+[2019.01.24-01.11.37:343][  0]LogInit: Transaction tracking system initialized
+[2019.01.24-01.11.37:366][  0]BlueprintLog: New page: Editor Load
+[2019.01.24-01.11.37:450][  0]LocalizationService: Localization service is disabled
+[2019.01.24-01.11.37:736][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.24-01.11.37:736][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.24-01.11.37:736][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.24-01.11.37:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-01.11.37:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-01.11.37:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-01.11.37:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-01.11.37:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/' took 0.01s
+[2019.01.24-01.11.37:874][  0]SourceControl: Source control is disabled
+[2019.01.24-01.11.37:874][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.24-01.11.37:874][  0]LightingResults: New page: Lighting Build
+[2019.01.24-01.11.37:877][  0]MapCheck: New page: Map Check
+[2019.01.24-01.11.37:877][  0]LightingResults: New page: Lighting Build
+[2019.01.24-01.11.38:109][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.24-01.11.38:117][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.24-01.11.38:142][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.24-01.11.38:239][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.208ms to complete.
+[2019.01.24-01.11.38:239][  0]LogFileHelpers: Loading map 'Template_Default' took 0.365
+[2019.01.24-01.11.38:330][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-01.11.38:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-01.11.38:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-01.11.38:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-01.11.38:360][  0]LogCollectionManager: Loaded 0 collections in 0.001746 seconds
+[2019.01.24-01.11.38:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Saved/Collections/' took 0.01s
+[2019.01.24-01.11.38:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/Developers/resta/Collections/' took 0.01s
+[2019.01.24-01.11.38:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/Collections/' took 0.01s
+[2019.01.24-01.11.38:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.24-01.11.38:412][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2572 classes and 603 folders.
+[2019.01.24-01.11.38:418][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.24-01.11.38:482][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-01.11.38:487][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.24-01.11.38:532][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-01.11.38:532][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2019.01.24-01.11.38:532][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.24-01.11.38:542][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.24-01.11.38:563][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.24-01.11.38:565][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.24-01.11.38:566][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.24-01.11.38:570][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.24-01.11.38:691][  1]LogAssetRegistry: Asset discovery search completed in 4.6013 seconds
+[2019.01.24-01.11.38:696][  1]LogRenderer: Reallocating scene render targets to support 800x352 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-01.11.38:696][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.24-01.11.38:696][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000137 seconds (updated 0 objects)
+[2019.01.24-01.11.42:673][117]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-01.11.48:428][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.11.48:631][265]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-01.11.49:071][265]LogAIModule: Creating AISystem for world RS_WBSTREETWITHGEO
+[2019.01.24-01.11.49:134][265]LogAssetEditorManager: Opening Asset editor for World /Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO
+[2019.01.24-01.11.49:161][265]Cmd: MAP LOAD FILE="../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/RS_WBSTREETWITHGEO.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.24-01.11.49:161][265]LightingResults: New page: Lighting Build
+[2019.01.24-01.11.49:162][265]LoadErrors: New page: Loading map: RS_WBSTREETWITHGEO.umap
+[2019.01.24-01.11.49:162][265]MapCheck: New page: Map Check
+[2019.01.24-01.11.49:162][265]LightingResults: New page: Lighting Build
+[2019.01.24-01.11.49:207][265]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.24-01.11.49:263][265]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.24-01.11.49:363][265]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.596ms to complete.
+[2019.01.24-01.11.49:365][265]LogFileHelpers: Loading map 'RS_WBSTREETWITHGEO' took 0.205
+[2019.01.24-01.12.08:446][804]Cmd: EDCALLBACK SURFPROPS
+[2019.01.24-01.12.10:422][861]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.12.21:401][156]LogEditorViewport: Clicking on Actor (double click): Brush (Brush wall 7)
+[2019.01.24-01.12.26:755][296]LogGeometryMode: Warning: Unable to find Brushgrass221 Brush(s) in new BSP
+[2019.01.24-01.12.26:755][296]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.12.46:845][849]Cmd: DELETE
+[2019.01.24-01.12.47:644][849]Cmd: ACTOR DELETE
+[2019.01.24-01.12.47:696][849]LogEditorActor: Deleted Actor: Brush
+[2019.01.24-01.12.48:219][849]LogEditorActor: Deleted 1 Actors (0.574 secs)
+[2019.01.24-01.12.55:141][ 53]Cmd: DELETE
+[2019.01.24-01.12.55:904][ 53]Cmd: ACTOR DELETE
+[2019.01.24-01.12.55:934][ 53]LogEditorActor: Deleted Actor: Brush
+[2019.01.24-01.12.56:346][ 53]LogEditorActor: Deleted 1 Actors (0.441 secs)
+[2019.01.24-01.13.08:724][389]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.24-01.13.11:213][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.13.13:407][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.13.15:028][491]LogSavePackage: Moving '../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Saved/RS_WBSTREETWITHGEOFD2C292146B693570853B583DF99EEDB.tmp' to '../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/RS_WBSTREETWITHGEO.umap'
+[2019.01.24-01.13.15:090][491]LogFileHelpers: Saving map 'RS_WBSTREETWITHGEO' took 1.658
+[2019.01.24-01.13.31:630][990]LogEditorViewport: Clicking on Actor (double click): Brush (Brush wall 7)
+[2019.01.24-01.13.45:896][363]LogGeometryMode: Warning: Unable to find Brushwall8 Brush(s) in new BSP
+[2019.01.24-01.13.45:896][363]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.13.47:091][400]Cmd: DELETE
+[2019.01.24-01.13.47:785][400]Cmd: ACTOR DELETE
+[2019.01.24-01.13.47:815][400]LogEditorActor: Deleted Actor: Brush
+[2019.01.24-01.13.48:297][400]LogEditorActor: Deleted 1 Actors (0.512 secs)
+[2019.01.24-01.14.27:647][500]LogEditorViewport: Clicking on Actor (double click): Brush (brush roof2)
+[2019.01.24-01.14.35:347][704]LogGeometryMode: Warning: Unable to find Brushgrass286 Brush(s) in new BSP
+[2019.01.24-01.14.35:347][704]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.14.39:810][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.24-01.14.53:351][226]Cmd: TRANSACTION UNDO
+[2019.01.24-01.14.53:351][226]LogEditorTransaction: Undo Move Actors
+[2019.01.24-01.14.53:676][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk51.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:677][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.BoxBrush125.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:679][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass81.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:685][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass59.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:689][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk22.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:710][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk29.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:715][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass360.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:727][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass163.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:727][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass152.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:732][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass141.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:734][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass256.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:738][226]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass234.BrushComponent0) Component already registered.
+[2019.01.24-01.14.53:819][226]LogGeometryMode: Warning: Unable to find 2 Poly(s) in new BSP
+[2019.01.24-01.14.53:819][226]LogGeometryMode: Warning: Unable to resolve brushroof2 Brush in new BSP, see above
+[2019.01.24-01.14.53:819][226]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.14.56:197][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.14.56:311][259]Cmd: MODE GRID=1
+[2019.01.24-01.15.15:859][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.15.17:227][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.15.18:803][829]LogSavePackage: Moving '../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Saved/RS_WBSTREETWITHGEODBA0B7D948940A81C0DBC18076138B3A.tmp' to '../../../../../../Users/resta/OneDrive/Documents/GitHub/RS_AssetPipeline/RS_InClassWhiteBox/Content/RS_WBSTREETWITHGEO.umap'
+[2019.01.24-01.15.18:857][829]LogFileHelpers: Saving map 'RS_WBSTREETWITHGEO' took 1.583
+[2019.01.24-01.15.26:204][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.24-01.15.26:270][ 48]Cmd: MODE GRID=0
+[2019.01.24-01.15.31:359][176]LogGeometryMode: Warning: Unable to find BoxBrush145 Brush(s) in new BSP
+[2019.01.24-01.15.31:359][176]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.16.06:596][207]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.24-01.16.25:970][758]Cmd: TRANSACTION UNDO
+[2019.01.24-01.16.25:970][758]LogEditorTransaction: Undo Move Actors
+[2019.01.24-01.16.26:295][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk51.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:296][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.BoxBrush125.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:298][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass81.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:304][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass59.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:308][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk22.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:329][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.brushsidewalk29.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:334][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass360.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:345][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass163.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:345][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass152.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:350][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass141.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:352][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass256.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:357][758]LogActorComponent: ~FComponentReregisterContext: (/Game/RS_WBSTREETWITHGEO.RS_WBSTREETWITHGEO:PersistentLevel.Brushgrass234.BrushComponent0) Component already registered.
+[2019.01.24-01.16.26:444][758]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2019.01.24-01.16.26:444][758]LogGeometryMode: Warning: Unable to resolve brushroof2 Brush in new BSP, see above
+[2019.01.24-01.16.26:444][758]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.01.24-01.16.30:699][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.24-01.16.31:424][857]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:146 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.01.24-01.16.31:424][857]LogD3D11RHI: [Aftermath] GDynamicRHI=0000019B469EC080, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.01.24-01.16.31:424][857]LogWindows: Windows GetLastError: The operation completed successfully. (0)
